@@ -16,6 +16,24 @@
       "message": "git-review needed first.",
       "revId": "f096bee38124e986b87ecfc6725fda5afacb311b",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "946610a3_c7a643e2",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000004
+      },
+      "writtenOn": "2022-08-04T20:33:19Z",
+      "side": 1,
+      "message": "https://review.calyxos.org/c/CalyxOS/platform_prebuilts_misc/+/11948",
+      "parentUuid": "f8a26bdf_cbfb2252",
+      "revId": "f096bee38124e986b87ecfc6725fda5afacb311b",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }
